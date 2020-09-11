@@ -7,6 +7,6 @@ public class Main {
         opera.count_sum();
         System.out.println("Input number to count factorial= ");
         int num = in.nextInt();
-        opera.count_factorial(3);
+        opera.count_factorial(num);
     }
 }
